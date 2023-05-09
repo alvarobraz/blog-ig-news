@@ -4,7 +4,7 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/alvarobraz/ignews"/>
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/alvarobraz/blog-ig-news"/>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
@@ -14,11 +14,11 @@
     <img alt="Made by alvarobraz" src="https://img.shields.io/badge/made%20by-alvarobraz-%237519C1">
   </a>
 
-  <a href="https://github.com/alvarobraz/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alvarobraz/ignews">
+  <a href="https://github.com/alvarobraz/blog-ig-news/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alvarobraz/blog-ig-news">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/alvarobraz/ignews">
+  <img alt="License" src="https://img.shields.io/github/license/alvarobraz/blog-ig-news">
 </p>
 
 ---
@@ -77,14 +77,7 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
-<!-- ## :framed_picture: Imagens ##
 
-<h1 align="center">
-    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
-</h1> -->
 
 
 
