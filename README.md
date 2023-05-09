@@ -67,7 +67,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 $ git clone https://github.com/alvarobraz/blog-ig-news.git
 
 # Access
-$ cd ignews
+$ cd blog-ig-news
 
 # Install dependencies
 $ yarn install
