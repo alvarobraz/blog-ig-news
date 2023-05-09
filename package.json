@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@prismicio/types": "^0.2.4",
+    "@types/next-auth": "3.7.1",
     "@types/prismic-dom": "^2.1.1",
     "slice-machine-ui": "^0.5.2"
   }
