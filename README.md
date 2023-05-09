@@ -1,24 +1,29 @@
+<h1 align="center">
+
+<img src="https://raw.githubusercontent.com/khalleb/ignews/main/public/images/avatar.svg" alt="rocketshoes" width="100px"/>
+
+</h1>
 
 <p align="center">
-  IGNEWS - Blog de notícias 📰🚀
+  IGNEWS - Portal de notícias 📰🚀
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/alvarobraz/blog-ig-news"/>
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
-  <a href="https://www.linkedin.com/in/alvarobraz/">
-    <img alt="Made by alvarobraz" src="https://img.shields.io/badge/made%20by-alvarobraz-%237519C1">
+  <a href="https://www.linkedin.com/in/khalleb/">
+    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
   </a>
 
-  <a href="https://github.com/alvarobraz/blog-ig-news/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alvarobraz/blog-ig-news">
+  <a href="https://github.com/khalleb/ignews/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/alvarobraz/blog-ig-news">
+  <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews">
 </p>
 
 ---
@@ -28,7 +33,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; &#xa0; | &#xa0;
-  <!-- <a href="#framed_picture-imagens">Imagens</a> &#xa0; &#xa0; -->
+  <a href="#framed_picture-imagens">Imagens</a> &#xa0; &#xa0;
 </p>
 
 <br>
@@ -64,10 +69,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/alvarobraz/blog-ig-news.git
+$ git clone https://github.com/khalleb/ignews
 
 # Access
-$ cd blog-ig-news
+$ cd ignews
 
 # Install dependencies
 $ yarn install
@@ -77,7 +82,14 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
+## :framed_picture: Imagens ##
 
+<h1 align="center">
+    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
+    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
+</h1>
 
 
 
