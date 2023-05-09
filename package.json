@@ -29,6 +29,7 @@
     "typescript": "^4.2.3"
   },
   "exports": {
-    "./node_modules/postcss/lib/parser.js": "./node_modules/postcss/lib/parser.js"
+    "./node_modules/postcss": "./node_modules/postcss",
+    "./node_modules/postcss/*": "./node_modules/postcss/*"
   }
 }
