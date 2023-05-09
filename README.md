@@ -1,29 +1,24 @@
-<h1 align="center">
-
-<img src="https://raw.githubusercontent.com/khalleb/ignews/main/public/images/avatar.svg" alt="rocketshoes" width="100px"/>
-
-</h1>
 
 <p align="center">
-  IGNEWS - Portal de notícias 📰🚀
+  blog-ig-news - Blog de notícias 📰🚀
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/alvarobraz/blog-ig-news"/>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
-  <a href="https://www.linkedin.com/in/khalleb/">
-    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
+  <a href="https://www.linkedin.com/in/alvarobraz/">
+    <img alt="Made by alvarobraz" src="https://img.shields.io/badge/made%20by-alvarobraz-%237519C1">
   </a>
 
-  <a href="https://github.com/khalleb/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
+  <a href="https://github.com/alvarobraz/blog-ig-news/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alvarobraz/blog-ig-news">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews">
+  <img alt="License" src="https://img.shields.io/github/license/alvarobraz/blog-ig-news">
 </p>
 
 ---
@@ -69,10 +64,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/khalleb/ignews
+$ git clone https://github.com/alvarobraz/blog-ig-news
 
 # Access
-$ cd ignews
+$ cd blog-ig-news
 
 # Install dependencies
 $ yarn install
@@ -82,14 +77,3 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
-## :framed_picture: Imagens ##
-
-<h1 align="center">
-    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
-</h1>
-
-
-
